@@ -1,10 +1,15 @@
-# Curso de Python para la API de OpenAI GPT 🐍🤖
+
+# 🤖 OpenAI & 🦜️🔗 LangChain: Un Curso Integral 📚
 
 ## Descripción 📚
 
-Este curso está diseñado para enseñarte cómo interactuar con la API de OpenAI GPT de forma rápida y sencilla utilizando Python. Aprenderás desde lo más básico hasta cómo implementar soluciones más avanzadas.
+Este curso está dividido en dos partes principales para ofrecerte una formación completa en tecnologías emergentes. En la primera parte, aprenderás a interactuar con la API de OpenAI GPT utilizando Python. En la segunda parte, exploraremos el ecosistema de LangChain, que incluye LLM, Memoria, Tools y Agentes.
+
+---
 
 ## Contenido 📋
+
+### Parte 1: API de OpenAI 🤖
 
 1. **Introducción a la API de OpenAI GPT**
     - ¿Qué es GPT?
@@ -33,10 +38,41 @@ Este curso está diseñado para enseñarte cómo interactuar con la API de OpenA
 
 7. **Conclusión y recursos adicionales**
 
+---
+
+### Parte 2: LangChain 🦜️🔗
+
+1. **Introducción a LangChain**
+    - ¿Qué es LangChain?
+    - Componentes básicos
+
+2. **LLM (LangChain Language Model)**
+    - Descripción general
+    - Uso práctico
+
+3. **Memoria**
+    - ¿Qué es la memoria en LangChain?
+    - Cómo utilizarla
+
+4. **Tools**
+    - Herramientas disponibles
+    - Cómo implementarlas
+
+5. **Agentes**
+    - ¿Qué son los agentes?
+    - Creación y gestión de agentes
+
+6. **Conclusión y recursos adicionales**
+
+---
+
 ## Requisitos 🛠
 
 - Python 3.x
 - Acceso a la API de OpenAI
+- Conocimientos básicos de programación
+
+---
 
 ## ¿Listo para empezar? 🚀
 
