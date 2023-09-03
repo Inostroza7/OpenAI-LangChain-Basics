@@ -1,5 +1,5 @@
 
-# 🤖 OpenAI & 🦜️🔗 LangChain: Un Curso Integral 📚
+# 🤖 OpenAI & 🦜️🔗 LangChain 📚 Basics
 
 ## Descripción 📚
 
